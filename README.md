@@ -1,10 +1,10 @@
-# Readme generator 
+# readme generator 
     [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
  
  
 ## Project Description 
  
- generates readme 
+ it generates readme files 
  
  
 
@@ -18,12 +18,12 @@
 * [Questions](#questions)
 ## Installation 
  
- google 
+ through google 
  
  
 ## Contributing 
  
- no one  
+ just myself 
  
  
 ## Usage 
@@ -38,17 +38,17 @@
  
 ## My GitHub Profile 
  
- Abduler21 
+ abduler21 
  
  
 ## My Email Address 
  
- kellemen23@gmail.com 
+ 01abdulmelik@gmail.com 
  
  
 ## Questions 
  
- If you have quesitons contact me at kellemen23@gmail.com 
+ If you have quesitons contact me at 01abdulmelik@gmail.com 
  
  
 ## License 
